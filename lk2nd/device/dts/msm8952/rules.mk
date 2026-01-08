@@ -3,6 +3,7 @@ LOCAL_DIR := $(GET_LOCAL_DIR)
 
 ADTBS += \
 	$(LOCAL_DIR)/msm8917-mtp.dtb \
+	$(LOCAL_DIR)/msm8917-lenovo-tbx304x.dts \
 	$(LOCAL_DIR)/msm8917-xiaomi-common.dtb \
 	$(LOCAL_DIR)/msm8917-xiaomi-riva.dtb \
 	$(LOCAL_DIR)/msm8920-motorola-jeter.dtb \
